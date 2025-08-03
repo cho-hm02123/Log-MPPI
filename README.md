@@ -1,6 +1,6 @@
 # Log-MPPI
 
-Implementation of Log-MPPI (Unscented Transform MPPI) controller in MATLAB based on the paper of Ihab S.Mohamed
+Implementation of Log-MPPI (Normal Log-Normal Mixture Distribution) controller in MATLAB based on the paper of Ihab S.Mohamed
 
 IEEE Transactions on Robotics And Automation Letters, 2022
 
